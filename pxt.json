@@ -15,11 +15,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.2.9",
+        "target": "1.5.44",
         "targetId": "minecraft"
     },
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
