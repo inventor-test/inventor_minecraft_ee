@@ -13,7 +13,8 @@
         "coding_fun_lesson1_agent-up.md",
         "coding_fun_lesson1_last-room.md",
         "coding_fun_lesson1_no_coding.md",
-        "coding_fun_lesson1_welcome.md"
+        "coding_fun_lesson1_welcome.md",
+        "welcome.md"
     ],
     "testFiles": [
         "test.ts"
