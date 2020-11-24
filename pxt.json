@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "agent-move.md"
+        "agent-move.md",
+        "coding_fun/lesson1/agent-up.md"
     ],
     "testFiles": [
         "test.ts"
